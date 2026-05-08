@@ -46,4 +46,6 @@ Handles saving and loading order data using serialization.
 The application provides a graphical interface for placing food orders and generating bills.
 
 ## Developed By
-Gobbika
+Gobbika J M
+Krishna Priya M S
+Oviya S
